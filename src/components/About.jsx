@@ -18,7 +18,7 @@ export default function About() {
         <div className="relative flex justify-center mb-16">
           <div className="absolute inset-0 bg-gradient-to-r from-indigo-600 via-purple-600 to-teal-500 rounded-full blur-lg opacity-20"></div>
           <img
-            src="images\profile.jpg"
+            src="https://ik.imagekit.io/veopbtrzj/profile-DESKTOP-CCV3V5C.jpg"
             alt="Profile"
             className="rounded-full transform hover:scale-110 transition duration-300 shadow-lg relative z-10 border-4 border-white w-48 h-48 object-cover"
           />
@@ -54,3 +54,4 @@ export default function About() {
     </div>
   );
 }
+
